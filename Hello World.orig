@@ -6,9 +6,14 @@ class HelloWorld
 	// Prints "Hello, World" to the terminal window. 
 	public static void main(String args[]) 
 	{ 
+<<<<<<< HEAD
+
 		System.out.println("Hello, World my name is chitti 2.0"); 
+=======
 		System.out.println("Hello, World"); 
+>>>>>>> master
+=======
 		System.out.println("Hello, World 2.0"); 
- 1d7ef1fc5e23a0bc14aa9c98c7fbd9b86afd8fb7
+>>>>>>> 1d7ef1fc5e23a0bc14aa9c98c7fbd9b86afd8fb7
 	} 
 } 
